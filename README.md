@@ -1,4 +1,4 @@
-# Hi and Welcome to DevOpsCon CI/CD demo repository
+# Hi user and Welcome to DevOpsCon CI/CD demo repository
 ## This repo contains basic Maven project with Hello-World war file 
 In order to make it work, please do the following: 
 
